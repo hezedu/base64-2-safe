@@ -1,6 +1,6 @@
 {
   "name": "base64-2-safe",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "RFC 4648 base64url simple implementation.",
   "main": "index.js",
   "files": ["index.js"],
@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linux-remote/base64-2-safe.git"
+    "url": "git+https://github.com/hezedu/base64-2-safe.git"
   },
   "keywords": [
     "base64url",
     "base64",
     "safe"
   ],
-  "author": "hezedu <hezedu@hotmail.com>",
+  "author": "Du Wei <hezedu@hotmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/linux-remote/base64-2-safe/issues"
+    "url": "https://github.com/hezedu/base64-2-safe/issues"
   },
-  "homepage": "https://github.com/linux-remote/base64-2-safe#readme"
+  "homepage": "https://github.com/hezedu/base64-2-safe#readme"
 }
